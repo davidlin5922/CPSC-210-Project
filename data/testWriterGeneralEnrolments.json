@@ -1,0 +1,39 @@
+{"courseList": [
+    {
+        "courseName": "CPSC 210",
+        "markList": [{
+            "component": "Quiz",
+            "markName": "testQuiz",
+            "mark": 80.3
+        }],
+        "componentList": [
+            {
+                "componentName": "Quiz",
+                "componentWeight": 30
+            },
+            {
+                "componentName": "Final",
+                "componentWeight": 35
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC 121",
+        "markList": [
+            {
+                "component": "Tutorial",
+                "markName": "testTutorial1",
+                "mark": 100
+            },
+            {
+                "component": "Tutorial",
+                "markName": "testTutorial2",
+                "mark": 100
+            }
+        ],
+        "componentList": [{
+            "componentName": "Tutorial",
+            "componentWeight": 6
+        }]
+    }
+]}
